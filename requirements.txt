@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+joblib
+streamlit
+loguru
+pytest
+faker
+sentence-transformers
+torch
+faiss-cpu
